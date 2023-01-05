@@ -5,12 +5,14 @@
 ##### Marksman
 Marksmanship 150Sec, Trap weave:
 https://tinyurl.com/2cb2ssn9
+
 Marksmanship 150Sec, Turret:
 https://tinyurl.com/yaz38psy
 
 ##### Survival
 Survival 150Sec, Trap weave:
 https://tinyurl.com/mvjwem2e
+
 Survival 150Sec, Turret:
 https://tinyurl.com/54cjpzru
 
