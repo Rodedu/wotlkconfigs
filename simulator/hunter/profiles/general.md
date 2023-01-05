@@ -23,10 +23,13 @@ These sets are made with the intent of maximising personal dps. SPECS AND GEAR c
 ##### Marksman
 Marksmanship 150Sec, Trap weave: 10086DPS
 https://tinyurl.com/2emys27x
+
 Marksmanship 150Sec, Turret: 9819DPS 
 https://tinyurl.com/m5mate7b
+
 Marksmanship 360Sec, Trap weave:9654DPS
 https://tinyurl.com/2wr7uz8n
+
 Marksmanship 360Sec, Turret: 9391DPS
 https://tinyurl.com/ysyfwjvv
 
@@ -34,10 +37,13 @@ https://tinyurl.com/ysyfwjvv
 ##### Survival
 Survival 150Sec, Trap weave: 10632DPS
 https://tinyurl.com/2dmwumzz
+
 Survival 150Sec, Turret: 10057DPS
 https://tinyurl.com/435b8958
+
 Survival 360Sec, Trap weave:10133DPS
 https://tinyurl.com/2d28fcms
+
 Survival 360Sec, Turret:9454DPS
 https://tinyurl.com/5uv8ewxf
 
