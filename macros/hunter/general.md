@@ -80,7 +80,7 @@ Priority = Mouse-Over > Focus Target > target > Your Pet
 /use [nopet] Call Pet
 ```
 
-### Master's call
+#### Master's call
 
 ```
 /petpassive [nomod]
