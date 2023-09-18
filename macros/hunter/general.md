@@ -49,12 +49,22 @@ Priority = Mouse-Over > Focus Target > target > Your Pet
 #### Pet Attack Macro:
 
 ```
-/petfollow
-/petattack [@mouseover,harm] []
-/petdefensive
-/cast [exists] Dive
-/cast [exists] Dash
-/cast [exists] Charge
+#showtooltip
+/cleartarget [dead][help]
+/targetenemy [noexists,combat]
+/use [nopet] Call Pet
+/use [nochanneling,harm] Kill Command
+/petattack [@mouseover,harm][@target,harm] [@pettarget,exists]
+/use [harm] Dash
+/petautocastoff [group] Growl
+```
+
+#### Pet Passive Macro:
+
+```
+/petpassive
+/petstay [mod]
+/petfollow [nomod]
 ```
 
 #### Steam Tonk + Dream Vision Macro:
@@ -68,6 +78,32 @@ Priority = Mouse-Over > Focus Target > target > Your Pet
 /use [combat,pet] Elixir of Dream Vision
 /cast [combat,pet] Dismiss Pet
 /use [nopet] Call Pet
+```
+
+### Master's call
+
+```
+/petpassive [nomod]
+/petfollow [nomod]
+/petpassive
+/use [combat,nomod] Dash
+/use [@player]Master's Call
+/petautocastoff Call of the Wild
+/petautocastoff Dash
+/petautocastoff [group] Growl
+/petautocaston [nogroup] Growl
+```
+
+#### Kill Shot mouse over 
+
+```
+/use [@mouseover,harm][]Kill Shot
+```
+
+#### Serpent sting mouse over
+
+```
+/use [@mouseover,harm][]Serpent Sting
 ```
 
 #### Aspect weaving Macro:
